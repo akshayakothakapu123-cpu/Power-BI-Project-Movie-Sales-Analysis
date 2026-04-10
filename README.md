@@ -49,5 +49,7 @@ Observed trends in movie releases and revenue growth
 Found relationships between ratings, votes, and revenue
 Highlighted high-performing movies based on multiple metrics
 <img width="1380" height="775" alt="Screenshot 2026-04-10 185105" src="https://github.com/user-attachments/assets/5e49dff9-3387-46e6-a923-6b9238f7968f" />
+<img width="1381" height="766" alt="Screenshot 2026-04-10 185117" src="https://github.com/user-attachments/assets/542ed6bd-b679-4876-8131-5f94b8d24274" />
+<img width="1373" height="770" alt="Screenshot 2026-04-10 185126" src="https://github.com/user-attachments/assets/b2da512b-175f-448b-8401-6896c1953741" />
 
 
